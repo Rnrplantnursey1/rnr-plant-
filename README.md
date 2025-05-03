@@ -24,7 +24,7 @@
   </header>  <div class="hero">
     <h2>Grow Nature with Us</h2>
     <p>We provide healthy, quality fruit and grafted plants at affordable prices.</p>
-    <a class="button" href="https://wa.me/918684998023">Contact on WhatsApp</a>
+    <a class="button" href="https://wa.me/914596953444">Contact on WhatsApp</a>
   </div>  <div class="section">
     <h2 style="text-align:center;">Our Plants</h2>
     <div class="plants">
@@ -36,7 +36,7 @@
         <h3>Guava (Fruit)</h3>
         <p>High-yielding fruit plants.</p>
       </div>
-      <div class="plant-card">
+      <div class="plant-photo">
         <h3>Lemon (Grafted)</h3>
         <p>Perfect for home gardens.</p>
       </div>
@@ -45,7 +45,7 @@
   </div>  <div class="contact">
     <h2>Visit Us</h2>
     <p>Thakurnagar - Gaighata Rd, West Bengal, India</p>
-    <p>Phone/WhatsApp: <a href="tel:+918684998023">8684998023</a></p>
+    <p>Phone/WhatsApp: <a href="tel:+912345695645">2345695645</a></p>
   </div>  <footer>
     <p>&copy; 2025 RNR Plant. All rights reserved.</p>
   </footer>
