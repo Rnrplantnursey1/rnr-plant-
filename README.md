@@ -70,3 +70,56 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>RNR Plant Nursery</title>
+  <style>
+    body { font-family: Arial; background: #f5f5f5; margin: 0; padding: 0; }
+    header { background: green; color: white; padding: 15px; text-align: center; }
+    .gallery { display: flex; flex-wrap: wrap; justify-content: center; padding: 20px; }
+    .product { background: white; border-radius: 10px; margin: 10px; width: 200px; padding: 10px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    .product img { width: 100%; height: 150px; object-fit: cover; border-radius: 8px; }
+    button { background: orange; color: white; border: none; padding: 8px 12px; border-radius: 5px; margin-top: 10px; cursor: pointer; }
+    .order-form { background: white; padding: 20px; max-width: 400px; margin: 30px auto; border-radius: 10px; }
+    input, textarea { width: 100%; padding: 8px; margin: 5px 0; border-radius: 5px; border: 1px solid #ccc; }
+    h2 { text-align: center; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>RNR Plant Nursery</h1>
+  <p>Fruit & Grafted Flower Plants | Thakurnagar, West Bengal</p>
+</header>
+
+<div class="gallery">
+  <div class="product">
+    <img src="https://via.placeholder.com/200x150?text=Mango+Plant" alt="Mango Plant">
+    <h3>Mango Grafted</h3>
+    <p>₹120</p>
+    <button>Add to Cart</button>
+  </div>
+  <div class="product">
+    <img src="https://via.placeholder.com/200x150?text=Rose+Plant" alt="Rose Plant">
+    <h3>Hybrid Rose</h3>
+    <p>₹80</p>
+    <button>Add to Cart</button>
+  </div>
+</div>
+
+<div class="order-form">
+  <h2>Place Your Order</h2>
+  <form>
+    <input type="text" placeholder="Full Name" required>
+    <input type="text" placeholder="Phone Number" required>
+    <textarea placeholder="Full Address" required></textarea>
+    <p><strong>Scan to Pay (UPI):</strong></p>
+    <img src="your-qr-code-image.png" alt="QR Code" width="200">
+    <button type="submit">Submit Order</button>
+  </form>
+</div>
+
+</body>
+</html>
